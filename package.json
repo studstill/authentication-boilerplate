@@ -1,0 +1,12 @@
+{
+  "name": "auth-boilerplate",
+  "version": "0.1.0",
+  "description": "Authentication Boilerplate with Express and Mongo/Mongoose",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "author": "Jason Studstill",
+  "license": "ISC"
+}
